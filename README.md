@@ -9,3 +9,6 @@ This python notebook contains a concise description of the strength of relative,
 This project was carried out at datacamp which was a guided project for the purpose of carrying out learning procedures and gaining insights as a data scientist.
 
 Utilizing the platform of jupyter notebook, the analysis contains beautiful visuals and plots using wonderful python libraries such as matplotlib and data processing libraries such as pandas to clean the data before using matplotlib to create graphs and plots to make a visual representation of the data
+
+In cleaning the data, cryptocurrency without market capitalization were scrapped out which could be due to some reasons such as project has been abandoned, market capitalization of the project was insignificant or too little. Whatever the case may have been, they would not have been useful to us in this case study.
+
