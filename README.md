@@ -7,3 +7,5 @@ A good insight on the comparism of the trend of cryptocurrencies, their market c
 This python notebook contains a concise description of the strength of relative, top cryptocurrencies over a number of years using their market capitalization and also the change in volume over a period of time.
 
 This project was carried out at datacamp which was a guided project for the purpose of carrying out learning procedures and gaining insights as a data scientist.
+
+Utilizing the platform of jupyter notebook, the analysis contains beautiful visuals and plots using wonderful python libraries such as matplotlib and data processing libraries such as pandas to clean the data before using matplotlib to create graphs and plots to make a visual representation of the data
