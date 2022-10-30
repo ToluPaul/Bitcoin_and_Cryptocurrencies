@@ -5,3 +5,5 @@ It is quite risky so its better one should be careful and abstain when the risk 
 A good insight on the comparism of the trend of cryptocurrencies, their market camp and strength over time
 
 This python notebook contains a concise description of the strength of relative, top cryptocurrencies over a number of years using their market capitalization and also the change in volume over a period of time.
+
+This project was carried out at datacamp which was a guided project for the purpose of carrying out learning procedures and gaining insights as a data scientist.
