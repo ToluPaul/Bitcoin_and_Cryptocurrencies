@@ -12,3 +12,4 @@ Utilizing the platform of jupyter notebook, the analysis contains beautiful visu
 
 In cleaning the data, cryptocurrency without market capitalization were scrapped out which could be due to some reasons such as project has been abandoned, market capitalization of the project was insignificant or too little. Whatever the case may have been, they would not have been useful to us in this case study.
 
+In addition to data being utilized, we only made a visual of the cryptocurrencies with the top 10 highest capitalization, and top 10 change in volume. Even as the say money changes almost everything. We all would want to see where the money goes. 
