@@ -15,3 +15,7 @@ In cleaning the data, cryptocurrency without market capitalization were scrapped
 In addition to data being utilized, we only made a visual of the cryptocurrencies with the top 10 highest capitalization, and top 10 change in volume. Even as the say money changes almost everything. We all would want to see where the money goes. 
 
 With Bitcoin topping the chart with ernomous market capitalization and Ethereum comming in second, the amount of money circulated in these cryptocurrencies have truly been enormous over the past few years. 
+
+The final bar chart of the notebook indicates the number or relative group of cryptocurrencies which have a relative high market capitalization compared to the number of those with low market capitalization and from the chart, it is so evident that the number of cryptocurrencies with high market capitalization is far smaller than those with low market capitalization.
+
+The world of cryptocurrencies is pretty fascinating, although highly risky yet highly rewarding
